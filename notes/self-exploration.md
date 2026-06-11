@@ -504,3 +504,7 @@
   2. 受け取って、定義する（サンプラー＝受け取る≠消費／AとBからC／音楽が源／終わらない作ること）
   3. 繰り返しの中で、昂る（休息は別レジスター／呼吸／ループは昂る／SAMPLER着地＝部屋を建てる側へ／不足→ビルド）
 - 旧 `繰り返しの中で、昂る.md` は削除し3に統合。
+
+#### 本人→ 「htmlでurlから読めるようにして」
+- `docs/index.html` を作成＝三部作を1枚の自己完結静的サイト（ダーク/レコードレーベル調・日本語縦組み読みやすさ重視・目次アンカー・SAMPLER/Open to desire フッター）。ローカルでもfile://で開ける。
+- URL公開＝GitHub Pages（docs/）。手順を本人へ案内（feature branch/docsを直接ソース指定すればmerge不要、URL: bufeks.github.io/Open-to-Desire/）。Pages有効化はsettings操作（利用可能MCPツールに無し）。
